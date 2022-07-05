@@ -26,8 +26,6 @@ The full set of files is available here: https://www.kaggle.com/datasets/airbnb/
 
 There are 3 notebooks available in the repository: `01_TimeOfTheYear.ipynb`, `02_Neighborhoods.ipynb` and `03_PricePrediction.ipynb` .  Each of the notebooks contains the exploratory analysis related to the title of the notebook.  Markdown cells and comments in the code were used to explain the steps of the analysis.  
 
-There is an additional `.py` file that contains a helper function for plotting.
-
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/).
